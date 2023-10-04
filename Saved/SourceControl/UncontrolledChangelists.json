@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/c1016392/Documents/Unreal Projects/MyProject2/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/c1016392/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/Stats.uasset",
+				"C:/Users/c1016392/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/HU.uasset",
+				"C:/Users/c1016392/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/HUD_UI.uasset",
+				"C:/Users/c1016392/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/HUD_WB.uasset",
+				"C:/Users/c1016392/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/Sun.uasset",
+				"C:/Users/c1016392/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/c1016392/Documents/Unreal Projects/MyProject2/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/4Q/8XT097Y5XVUVR6HD95PO2F.uasset"
+			]
+		}
+	]
+}
